@@ -12,8 +12,8 @@
 <div align="center">
 
 [<img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="Connect with Tanish on LinkedIn" />][linkedin]
-
-[Email][email] · [Explore my work][repositories]
+[<img src="https://skillicons.dev/icons?i=gmail" width="36" height="36" alt="Email Tanish" />][email]
+[<img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="Explore Tanish's GitHub repositories" />][repositories]
 
 </div>
 
@@ -60,19 +60,19 @@ Currently learning and exploring:
 
 <table>
   <tr>
-    <td align="center" width="64"><img src="https://skillicons.dev/icons?i=python" width="42" height="42" alt="Python logo" /></td>
+    <td align="center" width="64"><a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" width="42" height="42" alt="Python documentation" /></a></td>
     <td><strong>Python</strong> → Writing scripts, working with data, and building a foundation for AI/ML.</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="42" height="42" alt="Docker logo" /></td>
+    <td align="center"><a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="42" height="42" alt="Docker documentation" /></a></td>
     <td><strong>Docker</strong> → Packaging applications into containers for consistent development and deployment.</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="42" height="42" alt="Kubernetes logo" /></td>
+    <td align="center"><a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes" width="42" height="42" alt="Kubernetes documentation" /></a></td>
     <td><strong>Kubernetes</strong> → Understanding how containers are deployed, managed, and scaled.</td>
   </tr>
   <tr>
-    <td align="center"><img src="./assets/ai-ml.svg" width="42" height="42" alt="AI and machine learning network symbol" /></td>
+    <td align="center"><a href="https://developers.google.com/machine-learning/crash-course"><img src="./assets/ai-ml.svg" width="42" height="42" alt="Machine learning guide" /></a></td>
     <td><strong>AI / ML</strong> → Exploring data preparation, model training, and evaluating predictions.</td>
   </tr>
 </table>
@@ -82,8 +82,8 @@ Currently learning and exploring:
 Have a project idea, a question about my code, or an opportunity to learn and contribute? I'd be happy to connect.
 
 [<img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="Connect with Tanish Gupta on LinkedIn" />][linkedin]
-
-[Email me][email]
+[<img src="https://skillicons.dev/icons?i=gmail" width="36" height="36" alt="Email Tanish" />][email]
+[<img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="Explore Tanish's GitHub repositories" />][repositories]
 
 <!-- Shared destinations: update these once to update every matching link above. -->
 [linkedin]: https://www.linkedin.com/in/tanish-gupta09/
