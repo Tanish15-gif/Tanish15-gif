@@ -9,13 +9,13 @@
   Final-year B.Sc. Computer Science student · Mumbai, India
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanish-gupta09/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:tanish.s.gupta09@gmail.com">Email</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Tanish15-gif?tab=repositories">Explore my work</a>
-</p>
+<div align="center">
+
+[<img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="Connect with Tanish on LinkedIn" />][linkedin]
+
+[Email][email] · [Explore my work][repositories]
+
+</div>
 
 ---
 
@@ -29,24 +29,30 @@ I learn by building, asking questions, and improving the code I write. My intere
 
 I'm passionate about solving **data structures and algorithms (DSA)** problems and strengthening my problem-solving skills.
 
-[Explore my repositories](https://github.com/Tanish15-gif?tab=repositories) for project details, source code, and documentation.
+[Explore my repositories][repositories] for project details, source code, and documentation.
 
 ## Tech Stack
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,git,github,postman&amp;theme=light&amp;perline=5" />
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,git,github,postman&amp;theme=dark&amp;perline=5" alt="C#, .NET, React, TypeScript, JavaScript, HTML, CSS, Git, GitHub and Postman" />
-  </picture>
-</p>
+Select a logo or technology name to open its documentation.
+
+[<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C# documentation" />][csharp-docs]
+[<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core documentation" />][aspnet-docs]
+[<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React documentation" />][react-docs]
+[<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript documentation" />][typescript-docs]
+[<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript documentation" />][javascript-docs]
+[<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML documentation" />][html-docs]
+[<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS documentation" />][css-docs]
+[<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git documentation" />][git-docs]
+[<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub documentation" />][github-docs]
+[<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman documentation" />][postman-docs]
 
 | Area           | Technologies                                                      |
 | -------------- | ----------------------------------------------------------------- |
-| Backend        | C#, ASP.NET Core Web API, Entity Framework Core, ADO.NET, SignalR |
-| Frontend       | React, TypeScript, JavaScript, HTML, CSS                          |
-| Data           | SQL Server                                                        |
-| AI integration | Microsoft Semantic Kernel, Groq                                   |
-| Workflow       | Git, GitHub, Postman                                              |
+| Backend        | [C#][csharp-docs], [ASP.NET Core Web API][aspnet-docs], [Entity Framework Core][efcore-docs], [ADO.NET][adonet-docs], [SignalR][signalr-docs] |
+| Frontend       | [React][react-docs], [TypeScript][typescript-docs], [JavaScript][javascript-docs], [HTML][html-docs], [CSS][css-docs] |
+| Data           | [SQL Server][sqlserver-docs] |
+| AI integration | [Microsoft Semantic Kernel][semantic-kernel-docs], [Groq][groq-docs] |
+| Workflow       | [Git][git-docs], [GitHub][github-docs], [Postman][postman-docs] |
 
 ## Next in the Toolbox
 
@@ -75,8 +81,30 @@ Currently learning and exploring:
 
 Have a project idea, a question about my code, or an opportunity to learn and contribute? I'd be happy to connect.
 
-- **LinkedIn:** [Tanish Gupta](https://www.linkedin.com/in/tanish-gupta09/)
-- **Email:** [tanish.s.gupta09@gmail.com](mailto:tanish.s.gupta09@gmail.com)
+[<img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="Connect with Tanish Gupta on LinkedIn" />][linkedin]
+
+[Email me][email]
+
+<!-- Shared destinations: update these once to update every matching link above. -->
+[linkedin]: https://www.linkedin.com/in/tanish-gupta09/
+[email]: mailto:tanish.s.gupta09@gmail.com
+[repositories]: https://github.com/Tanish15-gif?tab=repositories
+[csharp-docs]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[aspnet-docs]: https://learn.microsoft.com/en-us/aspnet/core/
+[efcore-docs]: https://learn.microsoft.com/en-us/ef/core/
+[adonet-docs]: https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/
+[signalr-docs]: https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction
+[react-docs]: https://react.dev/learn
+[typescript-docs]: https://www.typescriptlang.org/docs/
+[javascript-docs]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[html-docs]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css-docs]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[sqlserver-docs]: https://learn.microsoft.com/en-us/sql/sql-server/
+[semantic-kernel-docs]: https://learn.microsoft.com/en-us/semantic-kernel/overview/
+[groq-docs]: https://console.groq.com/docs/overview
+[git-docs]: https://git-scm.com/doc
+[github-docs]: https://docs.github.com/
+[postman-docs]: https://learning.postman.com/docs/introduction/overview/
 
 <!-- Custom laptop animation and AI/ML symbol are in ./assets/. -->
 <!-- Technology icons: https://github.com/tandpfun/skill-icons -->
